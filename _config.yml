@@ -1,21 +1,21 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              http://scribble.muan.co/
-signoff:          Mu-An
-disqus_shortname: muan
-facebook_appid:   604714799556697
-google_analytics: UA-21332781-7
+title:            Chasing the light
+description:      Just another home on the internet.
+url:              http://supergrubby.com/
+signoff:          supergrubby
+disqus_shortname: #
+facebook_appid:   #
+google_analytics: #
 links: 
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://supergrubby.com
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:supergrubby@foxmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/supergrubby
     external:     true
 pygments:         true
 permalink:        pretty
