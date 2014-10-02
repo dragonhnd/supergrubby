@@ -1,6 +1,8 @@
 ---
 layout: post
 title : 语言设计的原则
+date: 2013-09-19 16:27:31
+disqus: n
 ---
 
 #语言设计的原则#

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Last of Us
+date: 2014-08-11 16:27:31
+disqus: n
 ---
 
 #The Last of Us#
