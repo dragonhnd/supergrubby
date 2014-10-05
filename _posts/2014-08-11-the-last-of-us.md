@@ -5,8 +5,6 @@ date: 2014-08-11 16:27:31
 disqus: n
 ---
 
-#The Last of Us#
-
 <embed src="http://www.xiami.com/widget/2542097_1771865615/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"/>
 
 时间，总是让人在不经意的时候发觉它走得那么快，快到让自大愚蠢的人想起自己是一种有寿命的生物。欲望太多总是遮了眼，这时候就明白太多的欲望只会让人变得迷失，至少对于如我一般的凡人，道理确实如此。这辈子能追求的事情也许只有那么几件，这辈子能把握住的人也许也只有那么几个。

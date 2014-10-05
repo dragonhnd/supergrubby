@@ -1,6 +1,6 @@
 ---
-layout:post
-title: 测试体系
+layout: post
+title : 测试体系的构建原则
 date: 2013-09-24 16:27:31
 disqus: n
 ---

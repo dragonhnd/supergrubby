@@ -5,8 +5,6 @@ date: 2014-07-25 16:27:31
 disqus: n
 ---
 
-# Pipin's Song #
-
 Mist and shadow. Cloud and shape. All shall fade.
 
 -----
