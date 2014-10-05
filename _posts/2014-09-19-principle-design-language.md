@@ -1,7 +1,7 @@
 ---
 layout: post
 title : 语言设计的原则
-date: 2014-09-10 16:27:31
+date: 2014-09-19 16:27:31
 disqus: n
 ---
 
