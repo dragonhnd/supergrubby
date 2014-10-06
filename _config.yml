@@ -8,9 +8,6 @@ google_analytics: #
 links: 
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          http://supergrubby.com
-    external:     true
   - name:         Email
     url:          mailto:supergrubby@foxmail.com
     external:     true
