@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Pinpin's Song
+layout: article
+title: "Pinpin's Song"
 date: 2014-07-25 16:27:31
 disqus: n
 ---
@@ -76,4 +76,3 @@ Cloud and shape
 All shall fade
 
 All shall fade”
-

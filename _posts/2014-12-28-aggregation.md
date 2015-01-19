@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Aggregation
+layout: article
+title: "Aggregation"
 date: 2014-12-28 13:24:21
 disqus: n
 ---
@@ -63,4 +63,3 @@ Based on the grouping condition, iterate then put element into corresponding res
 ###4. Projecting
 
 Get the fields into some kind of data structure and fileds.
-

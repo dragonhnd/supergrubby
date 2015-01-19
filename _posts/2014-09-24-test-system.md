@@ -1,6 +1,6 @@
 ---
-layout: post
-title : 测试体系的构建原则
+layout: article
+title : "测试体系的构建原则"
 date: 2014-09-24 16:27:31
 disqus: n
 ---

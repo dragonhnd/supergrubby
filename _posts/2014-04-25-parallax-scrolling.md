@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Parallax Scrolling
+layout: article
+title: "Parallax Scrolling"
 date: 2014-04-25 12:27:31
 disqus: n
 ---

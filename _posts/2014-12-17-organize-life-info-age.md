@@ -1,6 +1,6 @@
 ---
-layout: post
-title: How do I organize my life in the Information Age
+layout: article
+title: "How do I organize my life in the Information Age"
 date: 2014-12-17 13:24:21
 disqus: n
 ---

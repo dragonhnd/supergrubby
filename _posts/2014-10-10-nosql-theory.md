@@ -1,6 +1,6 @@
 ---
-layout: post
-title : NoSQL的理论基础
+layout: article
+title : "NoSQL的理论基础"
 date: 2014-10-10 16:27:31
 disqus: n
 ---
@@ -10,8 +10,8 @@ NoSQL
 
 ###CAP###
 
-- Consistency 
-- Availability 
+- Consistency
+- Availability
 - (Tolerance of network) Partition
 
 ####Practice####
@@ -54,4 +54,3 @@ IMDG
 ####Amdahl law & Gustafson law
 S(n) = 1/(K+(1-K)/n) = n/(1+(n-1)K)
 S(n) = K+(1-K)n
-
