@@ -20,10 +20,10 @@ gems:
 
 
 # Site owner
-owner: supergrubby
-  name: super
+owner:
+  name: Gao Chao
   email: supergrubby@gmail.com
-  twitter: twitter.com/supergrubby
+  twitter: supergrubby
   google:
     ad-client:
     ad-slot:
