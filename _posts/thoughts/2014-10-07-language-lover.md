@@ -2,7 +2,7 @@
 layout: article
 title : "我喜欢自然语言"
 date: 2014-10-07 16:27:31
-disqus: n
+categories: articles
 ---
 
 ###我理解的语言###
