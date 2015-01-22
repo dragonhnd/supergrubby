@@ -1,8 +1,8 @@
 ---
 layout: article
 title : "语言设计的原则"
+categories: articles
 date: 2014-09-19 16:27:31
-disqus: n
 ---
 
 1. 简洁性
