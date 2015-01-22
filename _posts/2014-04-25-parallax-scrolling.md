@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Parallax Scrolling"
+categories: articles?
 date: 2014-04-25 12:27:31
 disqus: n
 ---
