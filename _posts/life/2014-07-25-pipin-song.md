@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Pinpin's Song"
+categories: articles
 date: 2014-07-25 16:27:31
-disqus: n
 ---
 
 Mist and shadow. Cloud and shape. All shall fade.
