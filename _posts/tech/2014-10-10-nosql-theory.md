@@ -2,7 +2,7 @@
 layout: article
 title : "NoSQL的理论基础"
 date: 2014-10-10 16:27:31
-disqus: n
+categories: articles
 ---
 
 NoSQL
