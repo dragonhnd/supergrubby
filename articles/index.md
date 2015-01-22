@@ -14,4 +14,7 @@ image:
 {% for post in site.categories.articles %}
   {% include post-grid.html %}
 {% endfor %}
+{% for post in site.categories.life %}
+  {% include post-grid.html %}
+{% endfor %}
 </div><!-- /.tiles -->
