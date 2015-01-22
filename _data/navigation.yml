@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Essays
-  url: /essays/
+- title: Articles
+  url: /articles/
   # excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
