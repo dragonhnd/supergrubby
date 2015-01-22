@@ -2,7 +2,7 @@
 layout: article
 title: "Aggregation"
 date: 2014-12-28 13:24:21
-disqus: n
+categories: articles
 ---
 
 > Aggregations are operations that process data records and return computed results.
