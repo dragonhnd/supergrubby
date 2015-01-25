@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Game Player</h2>
-  <p class="post-excerpt"><a class="post-title" href="/games">I enjoy playing games and having great time with my friends since I was a kid. I'm also interested in game design.</a></p>
+  <p class="post-excerpt">I enjoy playing games and having great time with my friends since I was a kid. I'm also interested in <a class="post-title" href="/games">game design</a>.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Little hacker</h2>
-  <p class="post-excerpt">Computer is my inmitate friend, and with the help of computers, I've reached the place far far away, learned the knowledge not accessible in local library, made friends in another culture. I believe tech makes our life better. Computer is never a cold machine. Build software with love and passion. </p>
+  <p class="post-excerpt">I believe tech makes our life better. Computer is never a cold machine. Build software with love and passion. </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
