@@ -3,7 +3,7 @@ layout: archive
 title: "Articles"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Record of my life on this beautiful blue planet."
+excerpt: ""
 tags: []
 image:
   feature:
