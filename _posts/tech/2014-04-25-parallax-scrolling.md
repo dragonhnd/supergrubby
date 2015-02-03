@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Parallax Scrolling"
-categories: articles
+categories: hack
 modified: 2014-04-25 12:27:31
 tags: [tech]
 toc: true
