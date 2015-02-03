@@ -2,7 +2,7 @@
 layout: article
 title: "How do I organize my life in the Information Age"
 date: 2014-12-17 13:24:21
-categories: articles
+categories: hack
 ---
 
 
