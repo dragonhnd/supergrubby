@@ -2,7 +2,7 @@
 layout: article
 title : "编程与面向对象"
 date: 2014-09-20 16:27:31
-categories: articles
+categories: hack
 ---
 
 让计算机为我工作，而非成为计算机的奴隶。
