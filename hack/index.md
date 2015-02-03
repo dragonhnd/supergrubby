@@ -3,7 +3,7 @@ layout: archive
 title: "Hack"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: ""
+excerpt: "What the hack."
 tags: []
 image:
   feature:
