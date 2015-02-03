@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Pinpin's Song"
-categories: articles
+categories: life
 date: 2014-07-25 16:27:31
 ---
 
