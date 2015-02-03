@@ -5,22 +5,22 @@
   # excerpt: "Examples of long form posts."
   image: 400x250.gif
   
-  - title: Life
+- title: Life
   url: /life/
   # excerpt: "Examples of long form posts."
   image: 400x250.gif
   
-  - title: Music
+- title: Music
   url: /music/
   # excerpt: "Examples of long form posts."
   image: 400x250.gif
   
-  - title: Game
+- title: Game
   url: /game/
   # excerpt: "Examples of long form posts."
   image: 400x250.gif
 
-  - title: Hack
+- title: Hack
   url: /hack/
   # excerpt: "Examples of long form posts."
   image: 400x250.gif
