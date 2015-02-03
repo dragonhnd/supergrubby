@@ -3,6 +3,9 @@ layout: article
 title: "The Last of Us"
 categories: life
 date: 2014-08-11 16:27:31
+image:
+  teaser: 400x250.gif
+  feature: the-last-of-us.jpg
 ---
 
 <embed src="http://www.xiami.com/widget/2542097_1771865615/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"/>
