@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "The Last of Us"
-categories: articles
+categories: life
 date: 2014-08-11 16:27:31
 ---
 
