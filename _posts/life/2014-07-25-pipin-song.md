@@ -3,6 +3,9 @@ layout: article
 title: "Pinpin's Song"
 categories: life
 date: 2014-07-25 16:27:31
+image:
+  teaser: pipin-400x250.jpg
+  feature: pipin-1600x800.jpg
 ---
 
 Mist and shadow. Cloud and shape. All shall fade.
