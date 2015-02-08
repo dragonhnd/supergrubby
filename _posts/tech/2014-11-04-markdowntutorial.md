@@ -3,6 +3,8 @@ layout: article
 title: "沉浸式学Markdown"
 date: 2014-11-04 22:06:00
 categories: hack
+image:
+  teaser: markdown-400x250.jpg
 ---
 
 今天偶然发现一个沉浸式学习Markdown的好网站[markdowntutorial](http://markdowntutorial.com/)。
