@@ -3,29 +3,29 @@
 - title: Articles
   url: /articles/
   # excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
 
 - title: Life
   url: /life/
   # excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
 
 - title: Music
   url: /music/
   # excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
 
 - title: Game
   url: /game/
   # excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
 
 - title: Hack
   url: /hack/
   # excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
 
 - title: About
   url: /about/
   # excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+  image: pusen-400x250.jpg
