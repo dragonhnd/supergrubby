@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: miku-1600x800.jpg
+  feature: pusen-1600x800.jpg
 ---
 
 <div class="tiles">
